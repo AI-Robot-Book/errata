@@ -7,3 +7,4 @@
 | p.2  下から4行目|カレル・チャペット　　　 　 　　      |カレル・チャペック    　           | 
 | p.30 表2.1 トピックの行|データに伝送経路　　 　　      |データの伝送経路　　　　           | 
 | p.36 上から3行目|次節からHappy Mini　　　　 　　      |4.3.3節からHappy Mini　           | 
+| p.66 プログラムリスト 2.16 2行目|rosidl\_default\_generators | rosidl\_interface\_packages |
