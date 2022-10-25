@@ -9,4 +9,4 @@
 | p.36 上から3行目|次節からHappy Mini　　　　 　　      |4.3.3節からHappy Mini　           | 
 | p.66　プログラムリスト 2.16 2行目 | `2   <member_of_group>rosidl_default_generators</memberof_group>`|`2   <exec_depend>rosidl_default_runtime</exec_depend>`</br>`3   <member_of_group>rosidl_interface_packages</member_of_group>` | 
 | p.154 上から7行目 |`pip3 install opencv-contrib-python`|`pip3 install opencv-contrib-python==4.5.5.64`|
-| p.154 下から10行目 |`git clone https://github.com/ultralytics/yolov5`|`git clone -bv6.2 https://github.com/ultralytics/yolov5`|
+| p.154 下から10行目 |`git clone https://github.com/ultralytics/yolov5`|`git clone -b v6.2 https://github.com/ultralytics/yolov5`|
