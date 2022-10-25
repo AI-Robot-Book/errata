@@ -1,11 +1,12 @@
 # 正誤表
 - すみません．訂正がありますm(_ _ )m．
 
-更新日：2022-10-11 
+更新日：2022-10-25 
 |    正誤箇所     |                誤                 |　             正                |  
 | :-----------:  | :-------------------------------- |:--------------------------------|
 | p.2  下から4行目|カレル・チャペット　　　 　 　　      |カレル・チャペック    　           | 
 | p.30 表2.1 トピックの行|データに伝送経路　　 　　      |データの伝送経路　　　　           | 
 | p.36 上から3行目|次節からHappy Mini　　　　 　　      |4.3.3節からHappy Mini　           | 
-| p.66　プログラムリスト 2.16 2行目 | 2 <member\_of\_group>rosidl\_default\_generators</member_of\_group>| 2 <exec\_depend>rosidl\_default\_runtime</exec\_depend> | 
-| p.66　プログラムリスト 2.16 3行目 |                   | 3 <member\_of\_group>rosidl\_interface\_packages</member_of\_group> | 
+| p.66　プログラムリスト 2.16 2行目 | `2   <member_of_group>rosidl_default_generators</memberof_group>`|`2   <exec_depend>rosidl_default_runtime</exec_depend>`</br>`3   <member_of_group>rosidl_interface_packages</member_of_group>` | 
+| p.154 上から7行目 |`pip3 install opencv-contrib-python`|`pip3 install opencv-contrib-python==4.5.5.64`|
+| p.154 下から10行目 |`git clone https://github.com/ultralytics/yolov5`|`git clone -bv6.2 https://github.com/ultralytics/yolov5`|
