@@ -9,7 +9,7 @@
 | p.47 プログラムリスト2.1 4行 | `<name>happy</name>` | `<name>hello</name>` |
 | p.47 7, 8行 | `happy_node` | `hello_node` |
 | p.47 8行 | happyパッケージ | helloパッケージ |
-| p.47 プログラムリスト2.2 3行 | happy | hello |
+| p.47 プログラムリスト2.2 3行 | `happy` | `hello` |
 | p.47 プログラムリスト2.2 24行 | `happy_node = happy.happy_node:main` | `hello_node = hello.hello_node:main` |
 | p.86 上から3行目 |音声を計コンピュータなどにより…|音声をコンピュータなどにより…|
 | p.103 上から5行目 | ● 角度を使う方法| ● 方位を使う方法|
