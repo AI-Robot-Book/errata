@@ -12,8 +12,8 @@
 | p.47 プログラムリスト2.2 3行 | `happy` | `hello` |
 | p.47 プログラムリスト2.2 24行 | `happy_node = happy.happy_node:main` | `hello_node = hello.hello_node:main` |
 | p.86 上から3行目 |音声を計コンピュータなどにより…|音声をコンピュータなどにより…|  
-| p.98 式(4.1) |sin \theta| cos \theta|  
-| p.99 式(4.2) |cos \theta| sin \theta|  
+| p.98 式(4.1) |sin \theta | cos \theta |  
+| p.99 式(4.2) |cos \theta | sin \theta |  
 | p.103 上から5行目 | ● 角度を使う方法| ● 方位を使う方法|
 | p.103 図4.5 キャプション | 図4.5 角度を使った自己位置推定| 図4.5 方位を使った自己位置推定|
 | p.192 上から5行目 |`colcon build --packages-select simple_arm`|`colcon build --packages-select simple_arm_description`|
