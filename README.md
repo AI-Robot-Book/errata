@@ -1,7 +1,7 @@
 # 正誤表
 - すみません．訂正がありますm(_ _ )m．
 
-更新日：2022-11-13 
+更新日：2022-11-18 
 
 ## 未対応
 |    正誤箇所     |                誤                 |　             正                |  
@@ -19,6 +19,7 @@
 | p.103 上から5行目 | ● 角度を使う方法| ● 方位を使う方法|
 | p.103 図4.5 キャプション | 図4.5 角度を使った自己位置推定| 図4.5 方位を使った自己位置推定|
 | p.192 上から5行目 |`colcon build --packages-select simple_arm`|`colcon build --packages-select simple_arm_description`|
+| p.220 下から4行目 |`rviz2 -d install/crane_plus_description/share/crane_plus_description/launch/display.rviz`|`rviz2 -d ~/airobot_ws/install/crane_plus_description/share/crane_plus_description/launch/display.rviz `|
 
 ## 第2刷で対応
 |    正誤箇所     |                誤                 |　             正                |  
