@@ -11,7 +11,11 @@
 | p.47 8行 | happyパッケージ | helloパッケージ |
 | p.47 プログラムリスト2.2 3行 | `happy` | `hello` |
 | p.47 プログラムリスト2.2 24行 | `happy_node = happy.happy_node:main` | `hello_node = hello.hello_node:main` |
+| p.81 下から1行目 |Google Cloud Speech API|Google Speech Recognition|  
+| p.83 下から5行目 |Google Cloud Speech API|Google Speech Recognition|  
+| p.84 上上ら2行目 |Google Cloud Speech API|Google Speech Recognition|  
 | p.86 上から3行目 |音声を計コンピュータなどにより…|音声をコンピュータなどにより…|  
+| p.94 下から4行目 |Google Cloud Speech API|Google Speech Recognition|  
 | p.98 式(4.1) |sin &theta; | cos &theta; |  
 | p.98 式(4.2) |cos &theta; | sin &theta; |  
 | p.107 式(4.31) |sin &theta; | cos &theta; |  
