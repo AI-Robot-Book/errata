@@ -12,8 +12,7 @@
 | p.47 プログラムリスト2.2 3行 | `happy` | `hello` |
 | p.47 プログラムリスト2.2 24行 | `happy_node = happy.happy_node:main` | `hello_node = hello.hello_node:main` |
 | p.67 1行目 | ● ビルド： | ● ビルド：次のコマンドでビルドします． |
-| p.67 10行目に追加 |  | ● サービスノードとクライアントノードの作成
-サービスノード`bringme_service_node.py`とクライアントノード`bringme_client_node.py`のプログラムを作成します． |
+| p.67 10行目に追加 |  | ● サービスノードとクライアントノードの作成 (改行) サービスノード`bringme_service_node.py`とクライアントノード`bringme_client_node.py`のプログラムを作成します． |
 | p.81 下から1行目 |Google Cloud Speech API|Google Speech Recognition|  
 | p.83 下から5行目 |Google Cloud Speech API|Google Speech Recognition|  
 | p.84 上上ら2行目 |Google Cloud Speech API|Google Speech Recognition|  
