@@ -6,13 +6,22 @@
 ## 未対応
 |    正誤箇所     |                誤                 |　             正                |  
 | :-----------:  | :-------------------------------- |:--------------------------------|
+| p.67 1行目 | ● ビルド： | ● ビルド：次のコマンドでビルドします． |
+| p.67 10行目に追加 |  | ● サービスノードとクライアントノードの作成 (改行) サービスノード`bringme_service_node.py`とクライアントノード`bringme_client_node.py`のプログラムを作成します． |
+| p.101 下から6行目 | ● 外界センサを使う4手法| ● 外界センサを使う3手法|
+| p.101 下から5行目 | 4手法| 3手法|
+| p.101 下から2行目 | 3 距離と方位を使う方法| この行を全部削除|
+| p.101 下から1行目 | 4 形状を使う方法| 3 形状を使う方法|
+
+
+## 第３刷で対応
+|    正誤箇所     |                誤                 |　             正                |  
+| :-----------:  | :-------------------------------- |:--------------------------------|
 | p.47 プログラムリスト2.1 4行 | `<name>happy</name>` | `<name>hello</name>` |
 | p.47 7, 8行 | `happy_node` | `hello_node` |
 | p.47 8行 | happyパッケージ | helloパッケージ |
 | p.47 プログラムリスト2.2 3行 | `happy` | `hello` |
 | p.47 プログラムリスト2.2 24行 | `happy_node = happy.happy_node:main` | `hello_node = hello.hello_node:main` |
-| p.67 1行目 | ● ビルド： | ● ビルド：次のコマンドでビルドします． |
-| p.67 10行目に追加 |  | ● サービスノードとクライアントノードの作成 (改行) サービスノード`bringme_service_node.py`とクライアントノード`bringme_client_node.py`のプログラムを作成します． |
 | p.81 下から1行目 |Google Cloud Speech API|Google Speech Recognition|  
 | p.83 下から5行目 |Google Cloud Speech API|Google Speech Recognition|  
 | p.84 上上ら2行目 |Google Cloud Speech API|Google Speech Recognition|  
@@ -20,10 +29,6 @@
 | p.94 下から4行目 |Google Cloud Speech API|Google Speech Recognition|  
 | p.98 式(4.1) |sin &theta; | cos &theta; |  
 | p.98 式(4.2) |cos &theta; | sin &theta; |  
-| p.101 下から6行目 | ● 外界センサを使う4手法| ● 外界センサを使う3手法|
-| p.101 下から5行目 | 4手法| 3手法|
-| p.101 下から2行目 | 3 距離と方位を使う方法| この行を全部削除|
-| p.101 下から1行目 | 4 形状を使う方法| 3 形状を使う方法|
 | p.103 上から5行目 | ● 角度を使う方法| ● 方位を使う方法|
 | p.103 図4.5 キャプション | 図4.5 角度を使った自己位置推定| 図4.5 方位を使った自己位置推定|
 | p.107 式(4.31) |sin &theta; | cos &theta; |  
