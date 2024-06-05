@@ -9,8 +9,8 @@
 | p.192 上から5行目 |`colcon build --packages-select simple_arm_discription`|`colcon build --packages-select simple_arm_description`|
 | p.217 上から1行目 | 形状データを読み込み． | 形状データの読み込み． |
 | p.251 プログラムリスト33行目 | self.happy_action[no]| self.happy_actions[no]|
-| p.264 上から2行目 | 紫色と黄色の動く矢印 | 紫色と黄色の動く球 |
-| p.289 上から10行目 | aRb逆行列をかけて | aRbの逆行列をかけて |
+| p.264 上から10行目 | aRb逆行列をかけて | aRbの逆行列をかけて |
+| p.289 上から2行目 | 紫色と黄色の動く矢印 | 紫色と黄色の動く球 |
 
 ## 第4刷で対応
 |    正誤箇所     |                誤                 |　             正                |  
